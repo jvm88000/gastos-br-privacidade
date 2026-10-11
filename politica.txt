@@ -1,0 +1,21 @@
+POLÍTICA DE PRIVACIDADE — GASTOS BR
+Vigência e última atualização: 11 de outubro de 2026.
+
+O Gastos BR (Android, pacote br.com.jvmstudios.gastosbr) é publicado pela JVM Studios. Esta política descreve o tratamento de dados na versão atual do aplicativo.
+
+1. DADOS NO APARELHO
+O app não exige conta e não se conecta a contas bancárias. Receitas, despesas, contas, orçamento e preferências são armazenados em banco de dados no espaço privado do app no aparelho. O backup e a transferência automática desses dados pelo Android estão desativados. A JVM Studios não recebe cópia desses registros em servidor próprio. Você pode consultar, editar e excluir registros no aplicativo. Desinstalar o app remove a base local. O banco não tem criptografia própria; sua proteção depende do isolamento do Android e das configurações de segurança do aparelho.
+
+2. ANÚNCIOS E SERVIÇOS GOOGLE
+O app integra Google Mobile Ads (AdMob) para banners e anúncios intersticiais de navegação, e a User Messaging Platform (UMP) para apresentar e atualizar escolhas de privacidade quando aplicável. Esses SDKs podem processar endereço IP, identificadores do dispositivo ou de publicidade, informações técnicas do aparelho e do app, diagnósticos e interações com anúncios. Isso pode ser usado para entrega e medição de anúncios, limitar frequência e prevenir fraude, conforme a região, as escolhas disponíveis e as políticas do Google. O IP também pode indicar localização aproximada.
+
+O Gastos BR não envia ao Google nem usa para selecionar anúncios valores, descrições, categorias, contas, orçamento ou outros registros financeiros inseridos no app. As opções de privacidade dos anúncios podem ser abertas nos Ajustes quando o UMP as disponibilizar. Política do Google: https://policies.google.com/privacy. Divulgação de dados do SDK Google Mobile Ads: https://developers.google.com/admob/android/privacy/play-data-disclosure.
+
+3. EXPORTAÇÃO E COMPARTILHAMENTO
+Você pode solicitar a exportação dos registros em CSV. O arquivo só é entregue ao destino externo quando você escolhe compartilhá-lo; a partir daí, o aplicativo ou serviço escolhido pode tratar o arquivo conforme suas próprias regras. Exportações compartilhadas ficam fora do controle do Gastos BR e não são apagadas ao excluir dados do app. O CSV não pode ser restaurado pelo aplicativo.
+
+4. DIREITOS E CONTATO
+Para dúvidas ou solicitações relacionadas a esta política e ao tratamento de dados pela JVM Studios, escreva para jvmstudios.suporte@gmail.com. Como os registros financeiros permanecem no seu aparelho e não são enviados a um servidor da JVM Studios, pedidos de acesso, correção ou exclusão desses registros devem ser realizados no próprio dispositivo. Dados eventualmente processados pelo Google estão sujeitos às opções e aos canais descritos pelo Google.
+
+5. ALTERAÇÕES
+Se as práticas de dados mudarem, esta política será atualizada com uma nova data. As declarações de segurança de dados da Google Play devem ser preenchidas de acordo com os SDKs e a versão efetivamente distribuída.
